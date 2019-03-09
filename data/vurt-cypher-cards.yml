@@ -1,0 +1,130 @@
+-
+  title: A to Z BOOK
+  level: 1d6
+  form: A battered old road map or map book that has changed hands a thousand times. The maps are covered with notes and lines, with old streets crossed off and new routes drawn in. 
+  effect: Provides the PC with an asset when attempting to navigate from one place to another within the city district covered by the A to Z Book. <br />&ensp;Each A to Z Book covers one specific city district. Because the landscape of the city changes so quickly, the map is only useable a number of times equal to the level of the cypher, after which time, it is no longer accurate. A to Z Books can be acquired as a short-term benefit by spending 2 XP and the time to scrounge one up
+-
+  title: BLISS
+  level: 1d6
+  form: This classic party drug hasn’t changed much in the last 30 years. This concentrated liquid is atomized into a fine mist, then sprayed onto crowds of people, usually during live shows. This sexy aroma makes everyone a perfect dancer (in their own mind). Feel it!
+  effect: For 10 minutes per level of the cypher, those affected are more susceptible to manipulation. The difficulty of persuasion tasks on the target are decreased by one step
+-
+  title: BOOMER
+  level: 1d6
+  form: A miniature bottle of golden liquor
+  effect:  For 10 minutes per level of the cypher, decrease the difficulty of social interaction tasks by one level. Intimidation, persuasion, negotiation—anything involving smoothness. For the next 2 hours, the difficulty of all Speed tasks is increased by one step. The effect can stack up to three times. If three drinks are taken, the character dies at the end of the effect. U-type are immune to this effect. <br /> &ensp;”Take one measure for a good time, two for a blast, three for a clean and sexy death.”
+-
+  title: BUZZ-KILL
+  level: 1d6
+  form: A suppository.
+  effect: Renders the user immune to poisons of the same level or lower (and ends any such ongoing effects, if any, already in the user’s system). It also renders the user immune to any drug effects, removing all active effects, positive or negative. <br /> &espn; Immunity lasts for 10 minutes per level of the cypher.
+-
+  title: CHERRY STONER
+  level: 1d6
+  form: A pink, disposable one-hitter.
+  effect: Immediately restore Intellect points equal to the level of the cypher (any remaining points after the Intellect Pool is full are lost). Decrease the difficulty of navigation and spacial awareness tasks by one level. The difficulty of Speed-based actions is increased by one level. The effect lasts for 10 minutes per level of the cypher.
+-
+  title: CHOKE
+  level: 1d6
+  form: Lavendar-colored powder that is snorted.
+  effect: For 10 minutes per level of the cypher, the user has +2 intellect edge. As soon as the effect wears off, apply one day of the lasting damage effect, malaise (-1 to all Intellect rolls).
+-
+  title: CORTEX JAMMERS
+  level: 1d6+3
+  form= A green and black gelcap.
+  effect: For 10 minutes per level of the cypher, the user gains +1 to their Speed Edge. For two hours after the effect wears off, the user is weakened and gets -1 to all Might rolls.
+-
+  title: DOMINO CHOK
+  level: 1d6
+  form : A small bar of chocolate shaped like a domino.
+  effect: For 1 minute per level of the cypher, the user can apply one level of Effort to any non-combat task without spending points from a Pool. The level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task.
+-
+  title: Credit Chip
+  level: 1d6
+  form:  A plastic card
+  effect: Contains 1000¥ per level of the cypher).
+-
+  title: FETISH
+  level: 1d6+2
+  form:  A small vial of nasty-smelling greenish black liquid.
+  effect: Restore points to Might Pool equal to the level of the cypher (any remaining points after the Might Pool is full are lost). User is paralyzed by stomach cramps for one round and can perform no actions other than pained speech.
+-
+  title: FLASHBANG GRENADE
+  level: 1d6+2
+  form: A grenade.
+  effect: Either thrown or detonated on a timer, this cypher explodes in an immediate radius, blinding and deafening anyone caught in the blast for one round per level of the cypher. NPCs will be unable to take any actions until the effect wears off, but a PC can spend 1 XP to “make a lucky shot,” allowing the player to attempt an attack action, with the difficulty increased by 4 steps.
+-
+  title: GAS GRENADE
+  level: 1d6+2
+  form: A grenade.
+  effect: Thrown a short distance, this bursts into a poisonous cloud within an immediate area. The cloud lingers for d6 rounds, unless conditions dictate otherwise. <br/> &ensp; [gas_type].
+-
+  title: GOON JUICE
+  level: 1d6
+  form:  A beer in a slender silver can.
+  effect : For 10 minutes per level of the cypher, the drinker is more susceptible to manipulation. Attempts to convince the them to perform an action are decreased in difficulty by two steps. 
+-
+  title: GRAPE STONER
+  level: d6
+  form: A purple, disposable one-hitter.
+  effect: Immediately restore points to Might Pool equal to the level of the cypher (any remaining points after the Might Pool is full are lost). Increase the difficulty of Intellect-based checks by one level. The effect lasts for 10 minutes per level of the cypher. 
+-
+  title: HAZE
+  level: 1d6+2
+  form: A lump of purple plant matter.
+  effect: When smoked, the PC gets an asset for all Intellectbased checks. The difficulty of all social interactions is increased by one step until an item of food can be eaten. Up to three Haze cyphers maybe stacked; the lowest-level cypher sets the duration. Effect lasts for ten minutes per level of the cypher.
+-
+  title: HYPERBOLOEHYDE®
+  level: 1d6+2
+  form: Tincture drops.
+  effect: The difficulty of all tasks involving pleasant social interactions are decreased by one step per level of the cypher. Subtract a number of points from you Speed Pool equal to the level of the cypher.
+-
+  title: IBOTENIC BLART
+  level: 1d6
+  form: A gelcap filled with powdered mushroom.
+  effect: When ingested, the PC experiences an episode of intense euphoria paired with profuse sweating/secretion and is unable to perform any actions at all. Ingesting the PCs secretions during this time will reduce the difficulty of all Might-based tasks by two steps. The effect lasts for one minute per level of the cypher, at which time the PC behaves normally and the drugged sweat loses it’s effect.
+-
+  title: JET INJECTOR
+  level: 1d6+1
+  form: A hand held auto injector
+  effect: Restores points to Might Pool equal to the cypher’s level. If the Might Pool is full, remaining points are added to the next Pool (Speed, then Intellect).
+-
+  title: KIRBY GRIP
+  level: 1d6+1
+  form: A slender, electronic pick that resembles a bobby pin.
+  effect: Disables any lock (electronic or mechanical) equal to or lower than the cypher’s level.
+-
+  title: LEMON STONER
+  level: 1d6
+  form: A yellow, disposable one-hitter.
+  effect: Immediately restores points to Speed Pool equal to the level of the cypher (any remaining points after the Speed Pool is full are lost). The user is rendered completely deaf. The effect lasts for 10 minutes per level of the cypher
+-
+  title: LUZINE®
+  level: 1d6
+  form: A squeeze dropper containing a luminous blue nanite solution. 
+  effect: Cypher enables the user to see in total darkness for one hour for each level of the cypher. During this time, any actions involving vision that are performed in greater than dim light are increased in difficulty by one step
+-
+  title: MADKOW SPIRIT
+  level: 1d6
+  form: A small bottle containing a frothing yellow liquid.
+  effect: The taste of straight Madkow spirit is so abhorrent that it is usually trickled into a glass through a crystalline inpho cube to add knowledge and flavor. After a few moments, the cube will begin to produce green sparks at which point it is plunged into the drink and the spirit is stirred vigorously. For 10 minutes per level of the cypher, the drinker experiences intense euphoria, but is unable to communicate intelligibly at all. This is definitely the good shit, but not particularly useful.
+-
+  title: MAD DOG 40-40™
+  level: 1d6+2
+  form: A miniature bottle of yellow liquid, derived from canine hormones.
+  effect: For 10 minutes per level of the cypher, the user gains +2 to their Might Edge. User adds one day of the lasting damage effect malaise (-1 to all intellect rolls).
+-
+  title: METAPHORAZINE®
+  level: 1d6+3
+  form: A small lozenge.
+  effect: The user can apply one level of Effort to a non-combat task without spending points from a Pool. The level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task.
+-
+  title: MINI BLACK HOLE
+  level : 1d6+2
+  form: A small glass canister with a black hole magically suspended within.
+  effect: When shattered, a black hole appears within immediate range of the impact and lasts until the start of the PCs next turn. Any creatures or objects caught within the black hole’s area suffer crushing damage equal to the level of the cypher and are unable to take any actions.
+-
+  title: MINI-MAXIS®
+  level: 1d6
+  form: A small explosive the size of a walnut that can be thrown a long distance.
+  effect: The grenade explodes in an immediate radius, inflicting damage equal to the level of the cypher.	

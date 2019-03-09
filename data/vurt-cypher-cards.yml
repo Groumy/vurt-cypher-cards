@@ -31,7 +31,7 @@
 -
   title: CORTEX JAMMERS
   level: 1d6+3
-  form= A green and black gelcap.
+  form:  A green and black gelcap.
   effect: For 10 minutes per level of the cypher, the user gains +1 to their Speed Edge. For two hours after the effect wears off, the user is weakened and gets -1 to all Might rolls.
 -
   title: DOMINO CHOK

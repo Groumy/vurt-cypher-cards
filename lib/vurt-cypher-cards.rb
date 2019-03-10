@@ -2,18 +2,41 @@ require 'squib'
 require 'yaml'
 
 DATA_FOLDER = 'data'.freeze
+VERSION = '0.1.0'.freeze
+CARDS_OUT_PREFIX = "vurt_cyphers_#{VERSION}_"
 LAYOUT_FILE = File.join(DATA_FOLDER, 'base-layout.yml')
+CARDS_FILE = File.join(DATA_FOLDER, 'vurt-cypher-cards.yml')
+CARD_WIDTH = 1125
+CARD_HEIGHT = 825
+BACKGROUND_COLOR = 'white'
 
-Squib::Deck.new(layout: 'data/base-layout.yml', width: 1125, height: 825) do
-  background color: 'white'
-  # hint text: :black # uncomment to see the text box boundaries
-
-  text str: "FLASHBANG GRENADE (1d6+3)",  layout: :title
-  text str: "\tFor 10 minutes per level of the cypher, decrease the difficulty of social interaction tasks by one level. Intimidation, persuasion, negotiation—anything involving smoothness. For the next 2 hours, the difficulty of all Speed tasks is increased by one step. The effect can stack up to three times. If three drinks are taken, the character dies at the end of the effect. U-type are immune to this effect. \n\t”Take one measure for a good time, two for a blast, three for a clean and sexy death.”", layout: :rule_block
-
-  text str: 'v0.1.0', layout: :copyright
-
-  rect layout: :safe
-  rect layout: :cut
-  save_png prefix: 'layouts_builtin_party_'
+def main
+  data = load_data
+  generate_deck(data[:count], data['title'], data['level'], data['effect'])
 end
+
+def load_data
+  raw_data = YAML.load_file(CARDS_FILE)
+  keys = raw_data.collect {|x| x.keys}.flatten.uniq
+  new_data = {
+    count: raw_data.count
+  }
+  keys.each do |k|
+    new_data[k] = raw_data.collect {|x| x[k]}
+  end
+  return new_data
+end
+
+def generate_deck (count, titles, levels, effects)
+  Squib::Deck.new(layout: LAYOUT_FILE, width: CARD_WIDTH, height: CARD_HEIGHT) do
+    background color: BACKGROUND_COLOR
+    text str: titles,  layout: :title
+    text str: effects, layout: :rule_block
+    text str: levels, layout: :copyright
+    rect layout: :safe
+    rect layout: :cut
+    save_png prefix: CARDS_OUT_PREFIX
+  end
+end
+
+main

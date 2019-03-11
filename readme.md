@@ -5,7 +5,7 @@ The cards will be generated with the help of the ruby gem [Squib](https://github
 
 # Installation
 
-```powershell
+```
 cinst -y ruby --version 2.5.3.101
 gem install bundler
 bundle install
@@ -13,6 +13,6 @@ bundle install
 
 # Usage
 
-```powershell
-.\bin\vurt-cypher-cards.ps1
+```
+rake
 ```

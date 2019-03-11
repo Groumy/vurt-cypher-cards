@@ -1,7 +1,7 @@
-require 'rake/testtask'
+require_relative 'lib/vurt-cypher-cards.rb'
 
-Rake::TestTask.new do |t|
-  t.libs << "tests"
-  t.test_files = FileList['tests/test*.rb']
-  t.verbose = true
+task :default => :generate_deck
+
+task :generate_deck do
+  main
 end

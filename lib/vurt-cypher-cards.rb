@@ -28,7 +28,7 @@ def load_data
 end
 
 def generate_deck (count, titles, levels, effects)
-  Squib::Deck.new(layout: LAYOUT_FILE, width: CARD_WIDTH, height: CARD_HEIGHT) do
+  Squib::Deck.new(cards: count, layout: LAYOUT_FILE, width: CARD_WIDTH, height: CARD_HEIGHT) do
     background color: BACKGROUND_COLOR
     text str: titles,  layout: :title
     text str: effects, layout: :rule_block

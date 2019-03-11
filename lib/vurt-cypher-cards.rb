@@ -40,5 +40,3 @@ def generate_deck (count, titles, levels, effects)
     save_pdf  sprue: SPRUE_FILE
   end
 end
-
-main

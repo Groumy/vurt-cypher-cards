@@ -1,0 +1,25 @@
+---
+sheet_width: 11in
+sheet_height: 8.5in
+card_width: 3.5in
+card_height: 2.5in
+position_reference: :center
+cards:
+- y: 1.75in
+  x: 2.000in
+- y: 4.250in
+  x: 2.000in
+- y: 6.750in
+  x: 2.000in
+- y: 1.75in
+  x: 5.500in
+- y: 4.250in
+  x: 5.500in
+- y: 6.750in
+  x: 5.500in
+- y: 1.75in
+  x: 9.000in
+- y: 4.250in
+  x: 9.000in
+- y: 6.750in
+  x: 9.000in

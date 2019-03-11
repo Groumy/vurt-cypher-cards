@@ -7,7 +7,8 @@ The cards will be generated with the help of the ruby gem [Squib](https://github
 
 ```powershell
 cinst -y ruby --version 2.5.3.101
-gem install rake squib
+gem install bundler
+bundle install
 ```
 
 # Usage

@@ -1,2 +1,5 @@
 # ignoring Squib output directory
 /_output/*
+
+# removing Gemfile.lock from git to handle cross platform dev.
+Gemfile.lock

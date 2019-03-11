@@ -16,3 +16,9 @@ bundle install
 ```
 rake
 ```
+
+# Contributins
+
+## Travis CI
+
+I'm using the pro version of [Travis CI|https://travis-ci.com/] as CI/CD tool, as this repo is private. 

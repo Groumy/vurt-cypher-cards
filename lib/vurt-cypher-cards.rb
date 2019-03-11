@@ -7,8 +7,8 @@ CARDS_OUT_PREFIX = "vurt_cyphers_#{VERSION}_"
 LAYOUT_FILE = File.join(DATA_FOLDER, 'base-layout.yml')
 SPRUE_FILE = File.join(DATA_FOLDER, 'sprue.yml')
 CARDS_FILE = File.join(DATA_FOLDER, 'vurt-cypher-cards.yml')
-CARD_WIDTH = 1125
-CARD_HEIGHT = 825
+CARD_WIDTH = 1050
+CARD_HEIGHT = 750
 BACKGROUND_COLOR = 'white'
 
 def main

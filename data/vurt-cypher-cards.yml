@@ -5,11 +5,11 @@
     Provides the PC with an asset when attempting to navigate from 
     one place to another within the city district covered by the A to Z Book. 
 
-        Each A to Z Book covers one specific city district. Because the landscape 
+      Each A to Z Book covers one specific city district. Because the landscape 
     of the city changes so quickly, the map is only useable a number of times 
     equal to the level of the cypher, after which time, it is no longer accurate. 
     
-        A to Z Books can be acquired as a short-term benefit by spending 2 XP and the time to scrounge one up
+      A to Z Books can be acquired as a short-term benefit by spending 2 XP and the time to scrounge one up
 -
   title: BLISS
   level: 1d6
@@ -181,3 +181,269 @@
   level: 1d6
   effect: >
     The grenade explodes in an immediate radius, inflicting damage equal to the level of the cypher.	
+- 
+  title: NAPALM FILTERS®
+  level: 1d6
+  effect: >
+    Lighting up a Napalm Filter provides an asset
+    for any situation where positive social interaction is
+    called for.
+-
+  title: ORANGE CHRISM
+  level: 1d6
+  effect: >
+    Reduces the level of the drinker’s drug
+    addiction by one step per level of the cypher.
+-
+  title: OXYMOROX®
+  level: 1d6+3
+  effect: >
+    Causes intense euphoria and temporarily
+    removes one lasting damage effect for one hour per
+    level of the cypher. At the end of that time, the effect
+    returns.
+-
+  title: POP-UP SHELTER
+  level: 1d6
+  effect: >
+    A small shelter pops up around the user.
+    It is large enough for one person only. While inside,
+    user is protected from environmental effects such as
+    gas, pollen, or acid rain. Damage from effects such as
+    extreme cold, fire, or electricity is reduced by the level
+    of the cypher.
+-
+  title: POTTY CEMENT®
+  level: 1d6
+  effect: >
+    When the plastic is removed, the ball can
+    be smashed against anything to glue it to something
+    else. The strength of the bond is stronger than steel,
+    but decays over time. Decays after one hour per level
+    of the cypher. Surfaces covered in Vaz™ cannot be
+    bonded by Potty Cement™.
+-
+  title: POTTY CEMENT® - GRAPPLING PEN
+  level: 1d6
+  effect: >
+    With the press
+    of a button, this pen-sized
+    grappling gun fires an anchor
+    coated in Potty Cement™ that
+    will attach to any surface other
+    than one that is coated in Vaz® .
+    When the button is pressed again, the
+    NanoFlex™ cable retracts. Can be used
+    to pull the user to a solid object, or draw a
+    lighter object to the PC. Supports up to 220 lbs
+    (100 kg) without breaking. Glue degrades after one
+    minute per level of the cypher.
+-
+  title: REGENEROL®
+  level: 1d6
+  effect: >
+    Reduces healing time of all lasting damage
+    effects by a number of days equal to the level of the
+    cypher.
+-
+  title: RANDOMINO® SCRATCHERS
+  level: 1d6
+  effect: >
+    To play, scratch the surface
+    of the Randomino. If the two numbers
+    match, you win a prize! Roll two d6. If
+    both dice show the same number you
+    win £10 for each level of the cypher. If the
+    result is double 6s, you win the jackpot of £100
+    for each level of the cypher.
+-
+  title: SHOWBIZ
+  level: 1d6
+  effect: >
+    For 10 minutes the user has +2 Intellect
+    edge. When the effect expires, apply one day of the
+    lasting damage effect malaise (-1 to all Intellect rolls).
+-
+  title: SIMILEUM®
+  level: 1d6
+  effect: >
+    Restore points to Speed Pool equal to
+    the cypher’s level. If the Speed Pool is full, remaining
+    points are wasted and do not get added to the other
+    Pools. Using Simileum more than once per day causes
+    nosebleeds. Increase the
+    difficulty of all social interaction tasks by one step.
+-
+  title: SNEEZE BOMB
+  level: 1d6
+  effect: >
+    Upon impact with a hard
+    surface, the Sneeze Bomb creates
+    a cloud of pollen within
+    immediate range. Any breathing
+    creature within that area begins
+    to sneeze
+    uncontrollably
+    and is unable
+    to perform any
+    action other than
+    to move an immediate distance.
+    Lasts for one round per level of the
+    cypher.
+-
+  title: SOMNUS POSTMORTEMOL (Mandies)
+  level: 1d6
+  effect: >
+    The character does not require sleep for a
+    number of days equal to the level of the cypher. A 10-
+    hour rest is treated normally, but the character remains
+    awake and is able to perform non-strenuous tasks
+    such as drone maintenance, reading or
+    studying, etc.
+-
+  title: SONIC GRENADE
+  level: 1d6+2
+  effect: >
+    As a default effect, the grenade unleashes
+    a massive sonic wave when detonated. Anyone in
+    immediate range suffers damage equal to the cypher’s
+    level from the concussive blast.
+-
+  title: SONIC HOLE
+  level: 1d6+2
+  effect: >
+    Draws all
+    sound within long range into
+    the device for one round per cypher level. Within the
+    affected area, no sound can be heard.
+-
+  title: SOPORIFICO® Spray
+  level: 1d6
+  effect: >
+    When sprayed in the face of a medium-sized
+    creature, it will fall asleep for 10 minutes per level of
+    the cypher. The target will be awakened by any violent
+    action or extremely loud noise.
+-
+  title: STICKY SMELL-O-TAPE
+  level: 1d6
+  effect: >
+    When chewed, the gum releases an
+    intense chemical strawberry smell that can be used to
+    overwhelm the olfactory senses of anyone who passes
+    within immediate range of it. For 10 minutes for each
+    level of the cypher, the smeller is unable to identify
+    any scent other than the powerful odor of artificial
+    strawberries.
+-
+  title: SUPER RANDOMINO
+  level: 1d6
+  effect: >
+    The Randomino drawing takes place every
+    Sunday at 10am at the NovoAno House of Chances. At
+    that time, every Randomino settles on
+    a number. If one or both of the values on your Super
+    Randomino match the broadcasted numbers, you win
+    a prize. To play, roll two d20s. If both dice show the
+    same number you win £20 for each level of the cypher.
+    If both dice show a 20, you win the jackpot of £2,000
+    for each level of the cypher.
+-
+  title: TAKKI JACK’S ENOLA BOOMTAPE
+  level: 1d6
+  effect: >
+    When the end of the tube is twisted off,
+    a mass of sticky black tape strands will spring out
+    in the direction the cypher is pointed. Any creature
+    within immediate range will be bound by the gooey
+    Boomtape and be unable to move. The difficulty of
+    any actions attempted while bound by tape (including
+    attack and defense actions) are increased in by two
+    steps. The effect lasts for a number of rounds equal to
+    the level of the cypher.
+-
+  title: TRAINSPOTTERS
+  level: 1d6
+  effect: >
+    Improves your eyesight and grants
+    exceptional hand-eye coordination. The difficulty of all
+    ranged attacks is decreased by two steps for
+    one round per level of the cypher. For the
+    next two hours, the PC suffers from fits
+    of trembling and the difficulty of all Speed
+    actions is increased by one step.
+-
+  title: ULTRA-GARLIC
+  level: 1d6
+  effect: >
+    Restores a number of
+    points equal to the cypher’s level
+    to the user’s Intellect Pool (any
+    remaining points after the Intellect
+    Pool is full are lost). Subtract two
+    points from the user’s Speed Pool.
+-
+  title: VAZ®
+  level: 1d6+2
+  effect: >
+    Vaz provides an asset in most tasks where
+    moving parts or conductivity are involved, such as
+    assembling or modifying a weapon, fixing a car engine,
+    or picking a lock. Provided that the player and GM
+    agree that it is appropriate, Vaz is used for almost
+    everything. Vaz remains active for 10 minutes per level
+    of the cypher, during which time tasks involving the
+    item have an asset (GM’s discretion).
+-
+  title: BALLISTIC VAZ®
+  level: 1d6
+  effect: >
+    Where Ballistic Vaz is applied, gain +1
+    Armor rating per level of the cypher for one hour. It
+    may be applied to clothing, armor, bare skin, or even
+    to objects.
+-
+  title: BODY VAZ®
+  level: 1d6
+  effect: >
+    Body Vaz is a contraceptive, personal
+    lubricant and moisturiser. Also protects against
+    absorption of chemicals or trans-dermal poisions when
+    appied to any part of the body. Takes one minute to
+    apply to the entire body or one round to apply to a
+    single specific body part. Body Vaz is so common that
+    they give it away in courtesy jars at
+    most hotels.
+-
+  title: DOOR VAZ®
+  level: 1d6+2
+  effect: >
+    Door Vaz is a modified Vaz
+    designed specifically to motivate all
+    the parts of a mechanical door lock,
+    encouraging them to release. The lock
+    automatically disengages if the lock is
+    equal to or lower than the level of the
+    cypher. Otherwise, Door Vaz grants two
+    assets for the attempt to unlock the door.
+-
+  title: FLAME VAZ®
+  level: 1d6+1
+  effect: >
+    For any character or object coated
+    in Flame-retardant Vaz®, reduce ambient
+    damage from flames or heat by a number of
+    points equal to the level of the cypher.
+-
+  title: WRECKTANGLER
+  level: 1d6
+  effect: >
+    Worse than the caltrops of the ancient ninja
+    clans, wrecktanglers are magically charged with
+    kinetic and electrical energy, causing them to gravitate
+    towards a person’s feet. When thrown on the ground
+    in an immediate area, wrecktanglers will deal damage
+    equal to the level of the cypher to any person who
+    passes through them. The target will also be unable
+    to move for a number of rounds equal to the damage
+    dealt as they pick them from the soles of their shoes.

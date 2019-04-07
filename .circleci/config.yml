@@ -38,6 +38,7 @@ jobs:
 
       # Database setup
       - run: bundle exec rake
+      - run: tree
 
       # collect reports
       - store_artifacts:

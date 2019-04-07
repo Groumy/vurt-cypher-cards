@@ -36,7 +36,7 @@ def generate_deck (count, titles, levels, effects)
     text str: levels, layout: :copyright
     rect layout: :safe
     rect layout: :cut
-    save_png prefix: CARDS_OUT_PREFIX
+    # save_png prefix: CARDS_OUT_PREFIX
     save_pdf  sprue: SPRUE_FILE
   end
 end

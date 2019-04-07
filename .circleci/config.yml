@@ -41,5 +41,5 @@ jobs:
 
       # collect reports
       - store_artifacts:
-          path: data/**.pdf
+          path: _output/**.pdf
           destination: pdf-file

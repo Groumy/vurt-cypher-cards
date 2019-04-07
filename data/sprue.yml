@@ -1,25 +1,28 @@
 ---
-sheet_width: 11in
-sheet_height: 8.5in
+sheet_width: 8.5in
+sheet_height: 11in
 card_width: 3.5in
 card_height: 2.5in
-position_reference: :center
+position_reference: :topleft
 cards:
-- y: 1.75in
-  x: 2.000in
-- y: 4.250in
-  x: 2.000in
-- y: 6.750in
-  x: 2.000in
-- y: 1.75in
-  x: 5.500in
-- y: 4.250in
-  x: 5.500in
-- y: 6.750in
-  x: 5.500in
-- y: 1.75in
-  x: 9.000in
-- y: 4.250in
-  x: 9.000in
-- y: 6.750in
-  x: 9.000in
+# First Row
+- y: 0.75in
+  x: 0.50in
+- y: 0.75in
+  x: 4.00in
+# Second Row
+- y: 3.25in
+  x: 0.50in
+- y: 3.25in
+  x: 4.00in
+# Third Row
+- y: 5.75in
+  x: 0.50in
+- y: 5.75in
+  x: 4.00in
+# Fourth Row
+- y: 8.25in
+  x: 0.50in
+- y: 8.25in
+  x: 4.00in
+# 11/3 

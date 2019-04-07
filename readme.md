@@ -19,8 +19,12 @@ bundle install
 rake
 ```
 
-# Contributins
+# Contributing
 
 ## CircleCI
 
 I'm using the free version of [CircleCI](https://circleci.com/) as CI/CD tool, as this repo is private. 
+
+## Squib
+
+The Gem used to actually render the cars is [Squib](https://squib.readthedocs.io)

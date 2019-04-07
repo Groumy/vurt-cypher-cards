@@ -1,0 +1,52 @@
+
+card_size:
+  width: 1050
+  height: 750
+
+cut:
+  extends: card_size
+  x: 37.5
+  y: 37.5
+  radius: 16
+  width: -= 75
+  height: -= 75
+
+safe:
+  extends: cut
+  x: 75
+  y: 75  
+  radius: 0
+  width: -= 75
+  height: -= 75
+  dash: 3 3
+
+title:
+  extends: safe
+  height: 100
+  align: left
+  valign: top
+  font: 'Sans 12'
+
+rule_block:
+  extends: safe
+  y: += 100
+  height: -= 100
+  font: Times New Roman, Serif 8
+
+copyright:
+  extends: safe
+  y: 650
+  height: 25
+  font_size: 5
+  align: right
+  valign: bottom
+#aliases for copyright
+copy:
+  extends: copyright
+credit:
+  extends: copyright
+credits:
+  extends: copyright
+
+
+

@@ -21,6 +21,6 @@ rake
 
 # Contributins
 
-## Travis CI
+## CircleCI
 
-I'm using the pro version of [Travis CI|https://travis-ci.org/] as CI/CD tool, as this repo is private. 
+I'm using the free version of [CircleCI](https://circleci.com/) as CI/CD tool, as this repo is private. 
